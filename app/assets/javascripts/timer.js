@@ -1,7 +1,7 @@
 $(function(){
     function timer(settings){
         var config = {
-            endDate: '2020-08-17 23:56:04',
+            endDate: '2020-09-17 23:56:04',
             timeZone: 'Indochina Time/Hanoi',
             hours: $('#hours'),
             minutes: $('#minutes'),
